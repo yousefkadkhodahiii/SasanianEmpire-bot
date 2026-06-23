@@ -172,6 +172,6 @@ settings.json
 
 ---
 
-# ❤️ Support
+# ❤️ Developer
 
-در صورت وجود مشکل یا پیشنهاد، Issue جدید در GitHub ثبت کنید.
+https://t.me/ProfessorHeise
